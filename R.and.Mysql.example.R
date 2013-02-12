@@ -1,7 +1,7 @@
 ## Script demonstrates Mysql playing nice with R
 # Written by Christian Roy
 # 02/12/13
-
+# Git change
 #Hi,
 #I attached what we did today. 
 #Your homework is 
